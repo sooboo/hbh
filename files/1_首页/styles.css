@@ -1197,7 +1197,7 @@
 }
 #u977 {
   position:absolute;
-  left:399px;
+  left:361px;
   top:1420px;
   width:80px;
   height:79px;
@@ -1246,7 +1246,7 @@
 #u981 {
   position:absolute;
   left:228px;
-  top:1432px;
+  top:1437px;
   width:25px;
   height:25px;
   font-family:'微软雅黑';
@@ -1269,8 +1269,8 @@
 }
 #u983 {
   position:absolute;
-  left:427px;
-  top:1432px;
+  left:386px;
+  top:1437px;
   width:25px;
   height:25px;
   font-family:'微软雅黑';
@@ -1294,7 +1294,7 @@
 #u985 {
   position:absolute;
   left:547px;
-  top:1432px;
+  top:1437px;
   width:25px;
   height:25px;
   font-family:'微软雅黑';
@@ -1887,7 +1887,7 @@
 }
 #u1034 {
   position:absolute;
-  left:415px;
+  left:380px;
   top:1536px;
   width:37px;
   height:15px;
@@ -1912,7 +1912,7 @@
 }
 #u1036 {
   position:absolute;
-  left:433px;
+  left:398px;
   top:1499px;
   width:1px;
   height:27px;
@@ -1934,7 +1934,7 @@
 }
 #u1038 {
   position:absolute;
-  left:304px;
+  left:281px;
   top:1420px;
   width:80px;
   height:79px;
@@ -1958,8 +1958,8 @@
 }
 #u1040 {
   position:absolute;
-  left:332px;
-  top:1440px;
+  left:309px;
+  top:1437px;
   width:25px;
   height:25px;
   font-family:'微软雅黑';
@@ -1982,7 +1982,7 @@
 }
 #u1042 {
   position:absolute;
-  left:320px;
+  left:297px;
   top:1536px;
   width:49px;
   height:15px;
@@ -2007,7 +2007,7 @@
 }
 #u1044 {
   position:absolute;
-  left:353px;
+  left:330px;
   top:1499px;
   width:1px;
   height:27px;
@@ -2290,5 +2290,53 @@
   top:-8px;
   width:196px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u1068_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:79px;
+}
+#u1068 {
+  position:absolute;
+  left:441px;
+  top:1420px;
+  width:80px;
+  height:79px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u1069 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u1070_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:26px;
+  height:26px;
+}
+#u1070 {
+  position:absolute;
+  left:469px;
+  top:1437px;
+  width:25px;
+  height:25px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u1071 {
+  position:absolute;
+  left:2px;
+  top:3px;
+  width:21px;
   word-wrap:break-word;
 }
