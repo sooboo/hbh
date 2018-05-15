@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1200px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u404_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1097px;
+  height:1477px;
+}
+#u404 {
+  position:absolute;
+  left:103px;
+  top:53px;
+  width:1097px;
+  height:1477px;
+}
+#u405 {
+  position:absolute;
+  left:2px;
+  top:730px;
+  width:1093px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
